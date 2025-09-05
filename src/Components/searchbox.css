@@ -1,0 +1,12 @@
+.search_div {
+    text-align: center;
+    margin: 20px;
+}
+
+.Search_box {
+    padding:15px;
+    width:auto;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+
+}
